@@ -1,0 +1,28 @@
+body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+div.item {
+    max-height: 800px;
+    display: inline-block
+}
+
+div.item_info {
+    float: right;
+    text-align: left;
+    padding: 10px;
+}
+
+.item_img {
+    max-width: 500px;
+    margin: auto;
+}
+
+#name {
+    color: dimgrey;
+}
+
+#price {
+    color: red;
+}
