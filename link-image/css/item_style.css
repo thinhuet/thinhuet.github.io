@@ -5,7 +5,8 @@ body {
 
 div.item {
     max-height: 800px;
-    display: inline-block
+    display: flex;
+    align-items: center
 }
 
 div.item_info {
